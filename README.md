@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center"><samp>Hello! I am <b color="green">chilouhfaouzi</b></samp></h3>
-
-<p align="center"><br>
+<p align="center">
     <samp>
 「 🐦 Fullstack developer 」
-</samp>
+   </samp>
 </p>
 <ul>
     <li>🔭 I’m currently Software Engineering student</li>
