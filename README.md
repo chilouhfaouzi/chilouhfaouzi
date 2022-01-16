@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <ul>
     <li>🔭 I’m currently Software Engineering student</li>
     <li>🌱 I’m currently learning everything 🤣</li>
-    <li>🥅 2022 Goals: Learn more of Java and Javascript</li>
+    <li>🥅 2022 Goals: Learn more about Java and Javascript</li>
 </ul>
 
 ### Languages and Tools:
