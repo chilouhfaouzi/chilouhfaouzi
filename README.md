@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 Hello! I am <b color="green">chilouhfaouzi</b>
 
-
+<p align="center"><br>
+    <samp>
 「 🐦 Fullstack developer 」
+</samp>
+</p>
 - 🔭 I’m currently Software Engineering student
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more of Java and Javascript
