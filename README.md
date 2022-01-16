@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am <h4 color="green">chilouhfaouzi</h4>
+Hello! I am <b color="green">chilouhfaouzi</b>
 
 
 「 🐦 Fullstack developer 」
