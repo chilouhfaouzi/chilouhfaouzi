@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 「 🐦 Fullstack developer 」
 </samp>
 </p>
-- 🔭 I’m currently Software Engineering student
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more of Java and Javascript
-
+<ul>
+    <li>🔭 I’m currently Software Engineering student</li>
+    <li>🌱 I’m currently learning everything 🤣</li>
+    <li>🥅 2022 Goals: Learn more of Java and Javascript</li>
+</ul>
 
 ### Languages and Tools:
 
