@@ -95,8 +95,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chilouhfaouzi&layout=compact"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chilouhfaouzi&layout=compact"/>
 
 <br />
 
