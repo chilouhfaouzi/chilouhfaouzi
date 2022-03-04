@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 <ul>
     <li>🔭 I’m currently Software Engineering student</li>
-    <li>🌱 I’m currently learning everything 🤣</li>
+    <li>🌱 I’m currently learning everything</li>
     <li>🥅 2022 Goals: Learn more about Java and Javascript</li>
 </ul>
 
